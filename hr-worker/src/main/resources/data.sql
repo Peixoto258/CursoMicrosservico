@@ -1,3 +1,3 @@
-insert into worker (name, daily_income) values ('Bob', 200.0);
-insert into worker (name, daily_income) values ('Maria', 300.0);
-insert into worker (name, daily_income) values ('Alex', 200.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Bob', 200.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Maria', 300.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Alex', 250.0);
