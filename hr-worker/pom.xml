@@ -51,6 +51,13 @@
             </artifactId>
 			<version>1.4.7.RELEASE</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-config -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-config</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
